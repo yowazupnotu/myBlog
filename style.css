@@ -85,10 +85,3 @@ h1 {
     widows: 100%;
     z-index: 9;
 }
-
-a {
-    text-decoration: none;
-}
-a:hover{
-    color: crimson;
-}
